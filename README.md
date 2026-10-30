@@ -2,7 +2,7 @@
 
 GTM automation and CRM specialist based in Toronto. I build lead lists, enrich and qualify data, and prepare it for CRM, using APIs and AI-assisted workflows.
 
-**Tools:** Python · Serper · Clay · HubSpot · n8n · Exa
+**Tools:** Python · Serper · Clay · HubSpot · n8n · Exa 
 
 ## GTM pipeline: research → find leads → qualify
 
